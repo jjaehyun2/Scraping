@@ -1,0 +1,96 @@
+2025-07-09 11:29:36,526 - cnu_scraper - INFO - Scraping page 1 (offset=0)
+2025-07-09 11:29:36,526 - cnu_scraper - INFO - Scraping recruit list with offset=0, limit=10
+2025-07-09 11:29:39,602 - cnu_scraper - INFO - Successfully scraped 10 posts
+2025-07-09 11:29:39,603 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=551254&article.offset=0&articleLimit=10
+2025-07-09 11:29:42,403 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:29:42,405 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=549634&article.offset=0&articleLimit=10
+2025-07-09 11:29:45,536 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:29:45,546 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=548974&article.offset=0&articleLimit=10
+2025-07-09 11:29:48,486 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:29:48,486 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=547609&article.offset=0&articleLimit=10
+2025-07-09 11:29:51,350 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:29:51,350 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=547575&article.offset=0&articleLimit=10
+2025-07-09 11:29:54,526 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:29:54,526 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=545916&article.offset=0&articleLimit=10
+2025-07-09 11:29:57,547 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:29:57,547 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=545631&article.offset=0&articleLimit=10
+2025-07-09 11:30:00,698 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:30:00,699 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=545471&article.offset=0&articleLimit=10
+2025-07-09 11:30:03,655 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:30:03,655 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=544515&article.offset=0&articleLimit=10
+2025-07-09 11:30:06,775 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:30:06,776 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=544303&article.offset=0&articleLimit=10
+2025-07-09 11:30:09,907 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:30:09,908 - cnu_scraper - INFO - Scraping page 2 (offset=10)
+2025-07-09 11:30:09,908 - cnu_scraper - INFO - Scraping recruit list with offset=10, limit=10
+2025-07-09 11:30:12,630 - cnu_scraper - INFO - Successfully scraped 10 posts
+2025-07-09 11:30:12,630 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=544081&article.offset=10&articleLimit=10
+2025-07-09 11:30:15,516 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:30:15,517 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542897&article.offset=10&articleLimit=10
+2025-07-09 11:30:18,640 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:30:18,640 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542785&article.offset=10&articleLimit=10
+2025-07-09 11:30:22,303 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:30:22,304 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542784&article.offset=10&articleLimit=10
+2025-07-09 11:30:25,439 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:30:25,439 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542683&article.offset=10&articleLimit=10
+2025-07-09 11:30:28,808 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:30:28,808 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542500&article.offset=10&articleLimit=10
+2025-07-09 11:30:31,836 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:30:31,836 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542020&article.offset=10&articleLimit=10
+2025-07-09 11:30:34,874 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:30:34,875 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=541639&article.offset=10&articleLimit=10
+2025-07-09 11:30:37,970 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:30:37,970 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=541400&article.offset=10&articleLimit=10
+2025-07-09 11:30:40,753 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:30:40,754 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=541197&article.offset=10&articleLimit=10
+2025-07-09 11:30:43,667 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:30:43,681 - cnu_scraper - INFO - Successfully saved 20 posts to data\cnu_recruit_posts.json
+2025-07-09 11:30:43,704 - cnu_scraper - INFO - Successfully saved 20 posts to data\cnu_recruit_posts.csv
+2025-07-09 11:42:10,973 - cnu_scraper - INFO - Scraping page 1 (offset=0)
+2025-07-09 11:42:10,974 - cnu_scraper - INFO - Scraping recruit list with offset=0, limit=10
+2025-07-09 11:42:13,816 - cnu_scraper - INFO - Successfully scraped 10 posts
+2025-07-09 11:42:13,817 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=551254&article.offset=0&articleLimit=10
+2025-07-09 11:42:16,647 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:42:16,647 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=549634&article.offset=0&articleLimit=10
+2025-07-09 11:42:19,743 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:42:19,743 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=548974&article.offset=0&articleLimit=10
+2025-07-09 11:42:22,623 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:42:22,624 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=547609&article.offset=0&articleLimit=10
+2025-07-09 11:42:25,650 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:42:25,651 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=547575&article.offset=0&articleLimit=10
+2025-07-09 11:42:28,841 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:42:28,841 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=545916&article.offset=0&articleLimit=10
+2025-07-09 11:42:31,635 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:42:31,636 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=545631&article.offset=0&articleLimit=10
+2025-07-09 11:42:34,578 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:42:34,578 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=545471&article.offset=0&articleLimit=10
+2025-07-09 11:42:37,596 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:42:37,596 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=544515&article.offset=0&articleLimit=10
+2025-07-09 11:42:40,148 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:42:40,148 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=544303&article.offset=0&articleLimit=10
+2025-07-09 11:42:42,989 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:42:42,990 - cnu_scraper - INFO - Scraping page 2 (offset=10)
+2025-07-09 11:42:42,990 - cnu_scraper - INFO - Scraping recruit list with offset=10, limit=10
+2025-07-09 11:42:45,801 - cnu_scraper - INFO - Successfully scraped 10 posts
+2025-07-09 11:42:45,802 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=544081&article.offset=10&articleLimit=10
+2025-07-09 11:42:48,603 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:42:48,603 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542897&article.offset=10&articleLimit=10
+2025-07-09 11:42:51,656 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:42:51,656 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542785&article.offset=10&articleLimit=10
+2025-07-09 11:42:54,269 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:42:54,270 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542784&article.offset=10&articleLimit=10
+2025-07-09 11:42:57,054 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:42:57,055 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542683&article.offset=10&articleLimit=10
+2025-07-09 11:42:59,834 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:42:59,835 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542500&article.offset=10&articleLimit=10
+2025-07-09 11:43:02,612 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:43:02,612 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542020&article.offset=10&articleLimit=10
+2025-07-09 11:43:05,620 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:43:05,620 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=541639&article.offset=10&articleLimit=10
+2025-07-09 11:43:10,324 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:43:10,325 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=541400&article.offset=10&articleLimit=10
+2025-07-09 11:43:13,554 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:43:13,554 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=541197&article.offset=10&articleLimit=10
+2025-07-09 11:43:16,212 - cnu_scraper - INFO - Successfully scraped post detail: 力格 绝澜
+2025-07-09 11:43:16,223 - cnu_scraper - INFO - Successfully saved 20 posts to data\cnu_recruit_posts.json
+2025-07-09 11:43:16,230 - cnu_scraper - INFO - Successfully saved 20 posts to data\cnu_recruit_posts.csv
