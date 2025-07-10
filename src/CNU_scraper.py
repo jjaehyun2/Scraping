@@ -272,21 +272,22 @@ class CNURecruitScraper:
 
 # 테스트 코드
 if __name__ == "__main__":
-    # DB 핸들러 임포트
     import sys
     import os
     
-    # 프로젝트 루트 추가하여 다른 모듈 임포트 가능하게
-    sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+    # 상대 경로 임포트를 위한 패키지 경로 추가
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    parent_dir = os.path.dirname(os.path.dirname(current_dir))
+    sys.path.append(parent_dir)
     
     try:
-        from src.database.db_handler import MongoDBHandler
+        # MongoDB 핸들러 임포트
+        from database.db_handler import MongoDBHandler
         
         # 스크래퍼 및 DB 핸들러 초기화
         scraper = CNURecruitScraper()
         db_handler = MongoDBHandler()
         
-        # 채용공고 스크래핑
         print("채용공고 스크래핑 시작...")
         posts = scraper.scrape_multiple_pages(pages=2)
         print(f"총 {len(posts)}개의 채용공고를 수집했습니다.")
@@ -305,13 +306,7 @@ if __name__ == "__main__":
         
         print("\n작업 완료! 데이터가 MongoDB와 파일에 저장되었습니다.")
         
-    except ImportError:
-        print("DB 핸들러를 임포트할 수 없습니다. 파일로만 저장합니다.")
-        scraper = CNURecruitScraper()
-        posts = scraper.scrape_multiple_pages(pages=2)
-        scraper.save_to_json(posts)
-        scraper.save_to_csv(posts)
-        print(f"총 {len(posts)}개의 채용공고를 수집하여 파일로 저장했습니다.")
-        
     except Exception as e:
         print(f"오류 발생: {e}")
+        import traceback
+        traceback.print_exc()

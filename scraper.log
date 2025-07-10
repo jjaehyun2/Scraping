@@ -94,3 +94,171 @@
 2025-07-09 11:43:16,212 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
 2025-07-09 11:43:16,223 - cnu_scraper - INFO - Successfully saved 20 posts to data\cnu_recruit_posts.json
 2025-07-09 11:43:16,230 - cnu_scraper - INFO - Successfully saved 20 posts to data\cnu_recruit_posts.csv
+2025-07-09 14:38:50,019 - cnu_scraper - INFO - Scraping page 1 (offset=0)
+2025-07-09 14:38:50,019 - cnu_scraper - INFO - Scraping recruit list with offset=0, limit=10
+2025-07-09 14:38:52,769 - cnu_scraper - INFO - Successfully scraped 10 posts
+2025-07-09 14:38:52,770 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=551254&article.offset=0&articleLimit=10
+2025-07-09 14:38:55,669 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:38:55,671 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=549634&article.offset=0&articleLimit=10
+2025-07-09 14:38:58,606 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:38:58,607 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=548974&article.offset=0&articleLimit=10
+2025-07-09 14:39:01,316 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:01,317 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=547609&article.offset=0&articleLimit=10
+2025-07-09 14:39:04,109 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:04,109 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=547575&article.offset=0&articleLimit=10
+2025-07-09 14:39:06,975 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:06,975 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=545916&article.offset=0&articleLimit=10
+2025-07-09 14:39:09,751 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:09,752 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=545631&article.offset=0&articleLimit=10
+2025-07-09 14:39:12,607 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:12,607 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=545471&article.offset=0&articleLimit=10
+2025-07-09 14:39:15,384 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:15,384 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=544515&article.offset=0&articleLimit=10
+2025-07-09 14:39:18,300 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:18,301 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=544303&article.offset=0&articleLimit=10
+2025-07-09 14:39:21,142 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:21,142 - cnu_scraper - INFO - Scraping page 2 (offset=10)
+2025-07-09 14:39:21,143 - cnu_scraper - INFO - Scraping recruit list with offset=10, limit=10
+2025-07-09 14:39:23,849 - cnu_scraper - INFO - Successfully scraped 10 posts
+2025-07-09 14:39:23,850 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=544081&article.offset=10&articleLimit=10
+2025-07-09 14:39:26,633 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:26,634 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542897&article.offset=10&articleLimit=10
+2025-07-09 14:39:29,576 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:29,577 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542785&article.offset=10&articleLimit=10
+2025-07-09 14:39:32,431 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:32,431 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542784&article.offset=10&articleLimit=10
+2025-07-09 14:39:35,204 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:35,204 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542683&article.offset=10&articleLimit=10
+2025-07-09 14:39:38,167 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:38,167 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542500&article.offset=10&articleLimit=10
+2025-07-09 14:39:41,029 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:41,050 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542020&article.offset=10&articleLimit=10
+2025-07-09 14:39:43,878 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:43,879 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=541639&article.offset=10&articleLimit=10
+2025-07-09 14:39:46,673 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:46,674 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=541400&article.offset=10&articleLimit=10
+2025-07-09 14:39:49,546 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:49,547 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=541197&article.offset=10&articleLimit=10
+2025-07-09 14:39:52,329 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:39:52,331 - cnu_scraper - INFO - Successfully saved 20 posts to data\cnu_recruit_posts.json
+2025-07-09 14:39:52,356 - cnu_scraper - INFO - Successfully saved 20 posts to data\cnu_recruit_posts.csv
+2025-07-09 14:42:27,707 - cnu_scraper - INFO - Scraping page 1 (offset=0)
+2025-07-09 14:42:27,708 - cnu_scraper - INFO - Scraping recruit list with offset=0, limit=10
+2025-07-09 14:42:30,217 - cnu_scraper - INFO - Successfully scraped 10 posts
+2025-07-09 14:42:30,218 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=551254&article.offset=0&articleLimit=10
+2025-07-09 14:42:32,841 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:42:32,841 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=549634&article.offset=0&articleLimit=10
+2025-07-09 14:42:35,672 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:42:35,672 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=548974&article.offset=0&articleLimit=10
+2025-07-09 14:42:38,450 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:42:38,450 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=547609&article.offset=0&articleLimit=10
+2025-07-09 14:42:41,301 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:42:41,302 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=547575&article.offset=0&articleLimit=10
+2025-07-09 14:42:44,083 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:42:44,084 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=545916&article.offset=0&articleLimit=10
+2025-07-09 14:42:46,915 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:42:46,915 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=545631&article.offset=0&articleLimit=10
+2025-07-09 14:42:49,824 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:42:49,824 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=545471&article.offset=0&articleLimit=10
+2025-07-09 14:42:52,689 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:42:52,690 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=544515&article.offset=0&articleLimit=10
+2025-07-09 14:42:55,456 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:42:55,457 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=544303&article.offset=0&articleLimit=10
+2025-07-09 14:42:58,208 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:42:58,234 - cnu_scraper - INFO - Scraping page 2 (offset=10)
+2025-07-09 14:42:58,235 - cnu_scraper - INFO - Scraping recruit list with offset=10, limit=10
+2025-07-09 14:43:00,833 - cnu_scraper - INFO - Successfully scraped 10 posts
+2025-07-09 14:43:00,834 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=544081&article.offset=10&articleLimit=10
+2025-07-09 14:43:03,703 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:43:03,703 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542897&article.offset=10&articleLimit=10
+2025-07-09 14:43:06,540 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:43:06,541 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542785&article.offset=10&articleLimit=10
+2025-07-09 14:43:09,377 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:43:09,378 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542784&article.offset=10&articleLimit=10
+2025-07-09 14:43:12,294 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:43:12,294 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542683&article.offset=10&articleLimit=10
+2025-07-09 14:43:15,056 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:43:15,057 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542500&article.offset=10&articleLimit=10
+2025-07-09 14:43:17,926 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:43:17,927 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542020&article.offset=10&articleLimit=10
+2025-07-09 14:43:20,693 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:43:20,694 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=541639&article.offset=10&articleLimit=10
+2025-07-09 14:43:23,451 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:43:23,451 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=541400&article.offset=10&articleLimit=10
+2025-07-09 14:43:26,268 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:43:26,269 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=541197&article.offset=10&articleLimit=10
+2025-07-09 14:43:29,222 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:43:29,224 - cnu_scraper - INFO - Successfully saved 20 posts to data\cnu_recruit_posts.json
+2025-07-09 14:43:29,229 - cnu_scraper - INFO - Successfully saved 20 posts to data\cnu_recruit_posts.csv
+2025-07-09 14:48:05,056 - db_handler - INFO - Connected to MongoDB: cnu_chatbot_db
+2025-07-09 14:48:05,123 - db_handler - INFO - Database indexes created successfully
+2025-07-09 14:48:05,124 - cnu_scraper - INFO - Scraping page 1 (offset=0)
+2025-07-09 14:48:05,124 - cnu_scraper - INFO - Scraping recruit list with offset=0, limit=10
+2025-07-09 14:48:07,710 - cnu_scraper - INFO - Successfully scraped 10 posts
+2025-07-09 14:48:07,711 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=551254&article.offset=0&articleLimit=10
+2025-07-09 14:48:10,511 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:10,512 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=549634&article.offset=0&articleLimit=10
+2025-07-09 14:48:13,313 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:13,313 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=548974&article.offset=0&articleLimit=10
+2025-07-09 14:48:16,185 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:16,185 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=547609&article.offset=0&articleLimit=10
+2025-07-09 14:48:19,173 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:19,174 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=547575&article.offset=0&articleLimit=10
+2025-07-09 14:48:22,012 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:22,012 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=545916&article.offset=0&articleLimit=10
+2025-07-09 14:48:24,926 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:24,927 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=545631&article.offset=0&articleLimit=10
+2025-07-09 14:48:27,711 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:27,711 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=545471&article.offset=0&articleLimit=10
+2025-07-09 14:48:31,032 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:31,033 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=544515&article.offset=0&articleLimit=10
+2025-07-09 14:48:33,842 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:33,843 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=544303&article.offset=0&articleLimit=10
+2025-07-09 14:48:36,697 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:36,698 - cnu_scraper - INFO - Scraping page 2 (offset=10)
+2025-07-09 14:48:36,698 - cnu_scraper - INFO - Scraping recruit list with offset=10, limit=10
+2025-07-09 14:48:39,350 - cnu_scraper - INFO - Successfully scraped 10 posts
+2025-07-09 14:48:39,351 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=544081&article.offset=10&articleLimit=10
+2025-07-09 14:48:42,197 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:42,198 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542897&article.offset=10&articleLimit=10
+2025-07-09 14:48:45,116 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:45,117 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542785&article.offset=10&articleLimit=10
+2025-07-09 14:48:48,072 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:48,073 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542784&article.offset=10&articleLimit=10
+2025-07-09 14:48:50,849 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:50,850 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542683&article.offset=10&articleLimit=10
+2025-07-09 14:48:54,281 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:54,282 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542500&article.offset=10&articleLimit=10
+2025-07-09 14:48:57,229 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:48:57,229 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=542020&article.offset=10&articleLimit=10
+2025-07-09 14:49:00,171 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:49:00,172 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=541639&article.offset=10&articleLimit=10
+2025-07-09 14:49:03,113 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:49:03,113 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=541400&article.offset=10&articleLimit=10
+2025-07-09 14:49:06,145 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:49:06,146 - cnu_scraper - INFO - Scraping post detail from https://cnuint.cnu.ac.kr?mode=view&articleNo=541197&article.offset=10&articleLimit=10
+2025-07-09 14:49:09,258 - cnu_scraper - INFO - Successfully scraped post detail: 제목 없음
+2025-07-09 14:49:09,275 - db_handler - INFO - Stored new post: 2025년 국제하기계절학기(SSIS) 초청학생 도우미 모집 안내
+2025-07-09 14:49:09,277 - db_handler - INFO - Stored new post: 「풀브라이트 미국 유학·연구 장학금 설명회」 개최 안내
+2025-07-09 14:49:09,280 - db_handler - INFO - Stored new post: 2025년도 ASEM DUO-Korea 장학생 모집
+2025-07-09 14:49:09,281 - db_handler - INFO - Stored new post: [한국영상대학교 2025년 파란사다리 사업] 지역대학 참가자 모집 홍보
+2025-07-09 14:49:09,283 - db_handler - INFO - Stored new post: [선문대학교 2025년 파란사다리 사업] 지역대학 추천 학생 모집 안내
+2025-07-09 14:49:09,284 - db_handler - INFO - Stored new post: 2025학년도 중국 산동대학교 국제여름학교(ISS) 참가자 모집
+2025-07-09 14:49:09,285 - db_handler - INFO - Stored new post: 해외 자매대학 교환학생 및 방문학생 프로그램 파견학생 2차 추가모집 합격자 공지 [2025-2학기 파견]
+2025-07-09 14:49:09,286 - db_handler - INFO - Stored new post: 해외 자매대학 교환학생 및 방문학생 프로그램 파견학생 2차 추가 모집 합격자 발표 연기 [2025-2학기 파견]
+2025-07-09 14:49:09,288 - db_handler - INFO - Stored new post: (자비연수) 2025학년도 여름 계절학기 단기 파견 방문학생 모집
+2025-07-09 14:49:09,290 - db_handler - INFO - Stored new post: 중국 북경화공대학 International Science and Technology Innovation Camp 안내
+2025-07-09 14:49:09,292 - db_handler - INFO - Stored new post: 2025 국제학생대사 모집
+2025-07-09 14:49:09,293 - db_handler - INFO - Stored new post: 해외 자매대학 교환학생 및 방문학생 프로그램 파견학생 2차 추가 모집 안내 [2025-2학기 파견]
+2025-07-09 14:49:09,294 - db_handler - INFO - Stored new post: 2026-2027년도 풀브라이트 미국 연구비 지원 포스트닥 장학 프로그램 선발 안내
+2025-07-09 14:49:09,295 - db_handler - INFO - Stored new post: 2026-2027년도 풀브라이트 미국 대학원 유학 장학 프로그램 선발 안내
+2025-07-09 14:49:09,296 - db_handler - INFO - Stored new post: CNU GHS 파견학생 합격자 공지 [2025-2학기, 여름방학 파견]
+2025-07-09 14:49:09,297 - db_handler - INFO - Stored new post: 풀브라이트 2025 장학프로그램 안내
+2025-07-09 14:49:09,298 - db_handler - INFO - Stored new post: 2025학년도 여름계절학기 단기 파견 방문학생 (글로벌인재양성 및 자비연수) 합격자 발표
+2025-07-09 14:49:09,300 - db_handler - INFO - Stored new post: 2025학년도 1학기 CNU GUGU (어학강좌 및 파견연계프로그램) 최종 합격자 발표
+2025-07-09 14:49:09,301 - db_handler - INFO - Stored new post: 해외 자매대학 교환학생 및 방문학생 프로그램 파견학생 추가모집 합격자 공지 [2025-2학기 파견]
+2025-07-09 14:49:09,302 - db_handler - INFO - Stored new post: 해외 자매대학 교환학생 및 방문학생 프로그램 파견학생 합격자 발표 연기 [2025-2학기 파견]
+2025-07-09 14:49:09,302 - db_handler - INFO - Database update completed. 20 new posts stored, 0 posts updated
+2025-07-09 14:49:09,304 - cnu_scraper - ERROR - Error saving posts to JSON: Object of type datetime is not JSON serializable
+2025-07-09 14:49:09,313 - cnu_scraper - INFO - Successfully saved 20 posts to data\cnu_recruit_posts.csv
+2025-07-09 14:49:09,314 - db_handler - INFO - MongoDB connection closed
